@@ -1,5 +1,5 @@
 _repo: Self-Help-with-Illustrations-of-Conduct-and-Perseverance_935
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 935-h/images/coverb.jpg
@@ -25,5 +25,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Conduct of life'
 - !lcc 'BJ'
+- GITenberg
 title: Self Help; with Illustrations of Conduct and Perseverance
 url: http://www.gutenberg.org/ebooks/935
